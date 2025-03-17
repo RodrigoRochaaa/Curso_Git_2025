@@ -1,0 +1,3 @@
+Ls -> Lista arquivos
+Cd -> Move entre diretórios
+pwd -> Mostra diretório em que você está
