@@ -1,3 +1,6 @@
 Ls -> Lista arquivos
 Cd -> Move entre diretórios
 pwd -> Mostra diretório em que você está
+git init . -> Cria um repo git na pasta atual
+git status -> mostra o status do trabalho(de cada arquivo)
+git commit -m 'msg' -> faz commit do que estava pra ser commitado
