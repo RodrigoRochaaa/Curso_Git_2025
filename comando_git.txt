@@ -1,3 +1,4 @@
 Arquivo excluidos:Novo arquivo
 Atualizei um arquivo
 Git diff: Mostra a diferença de um commit para outro
+fodasse1
