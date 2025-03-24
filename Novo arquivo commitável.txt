@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Alterando o arquivo commitável! Estou tentando aprender caminhos dificeis
+
+
